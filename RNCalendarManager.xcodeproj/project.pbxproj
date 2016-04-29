@@ -28,6 +28,7 @@
 		C6FEEDED1CD38CC00051DFA4 /* libRNCalendarManager.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNCalendarManager.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6FEEDF01CD38CC10051DFA4 /* RNCalendarManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNCalendarManager.h; sourceTree = "<group>"; };
 		C6FEEDF21CD38CC10051DFA4 /* RNCalendarManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNCalendarManager.m; sourceTree = "<group>"; };
+		C6FEEDF91CD38D150051DFA4 /* RCTBridgeModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RCTBridgeModule.h; path = "../../../../repos/react-native/React/Base/RCTBridgeModule.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		C6FEEDEF1CD38CC10051DFA4 /* RNCalendarManager */ = {
 			isa = PBXGroup;
 			children = (
+				C6FEEDF91CD38D150051DFA4 /* RCTBridgeModule.h */,
 				C6FEEDF01CD38CC10051DFA4 /* RNCalendarManager.h */,
 				C6FEEDF21CD38CC10051DFA4 /* RNCalendarManager.m */,
 			);

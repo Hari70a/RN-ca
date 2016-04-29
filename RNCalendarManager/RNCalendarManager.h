@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface RNCalendarManager : NSObject
+#import "RCTBridgeModule.h"
 
+@interface RNCalendarManager : NSObject <RCTBridgeModule>
 @end
